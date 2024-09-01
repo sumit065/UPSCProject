@@ -1,0 +1,14 @@
+django-admin startapp QuestionsApp
+django-admin startproject UPSCProject .
+
+set-executionpolicy remotesigned  ( running powershell as admin )
+
+./newenv/Scripts/activate
+
+deactivate  (it's a command )
+
+
+----------------
+AWS: 
+To SSH into Ubuntu:  UserName =  ubuntu 
+                     Password - use PEM file
